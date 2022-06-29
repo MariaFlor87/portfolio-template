@@ -1,28 +1,26 @@
-# Trayecto de Formación: FullStack Web Developer :rocket:
 
-:package: **Módulo 1: Entorno de trabajo y control de versiones**
+# Trayecto Full stack Developer
 
-## Introducción
-Hola! :smile: Éste es el primer proyecto con el que daremos nuestros primeros pasos en el desarrollo de software. Nuestro camino iniciará con Visual Studio Code, Git y Github, a lo largo de este módulo nos familiarizaremos con este entorno de trabajo. Recuerda que pronto armaremos equipos de desarrollo así que te recomendamos que te vayas preparando. Tú y tu equipo experimentarán situaciones donde deberán coordinarse y cooperar para tener éxito, esto te dará un pequeño vistazo de lo que hay allí afuera.
+Hola! :) este es un pequeño resumen de mi portfolio, te invito a que lo leas para darte una nocion de todo lo que podras encontrar allí :point_right:
 
-Sin más que decir, te deseamos éxitos en este camino de formación! :clap:
+## Sobre mi
 
-## Instalación
+Basicamente hice incapie en como fui adentrandome a este mundo y tambien unos cuantos datos personales y de vida.
 
-Para iniciar con este proyecto debes tener lo siguiente:
+## Experiencia
 
-- Visual Studio Code Instalado
-- Git Instalado
-- No necesitas cuenta de GitHub pero la necesitarás mas adelante. Te recomiendo que te vayas registrando.
+Aun no he llegado a tener experiencia en el campo, por lo que he recurrido a usar un texto de prueba :sweat_smile:
 
-## Iniciar el proyecto
+## Contacto
 
-Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
+[LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-uruzagasti-521904243/)
 
-## Manejo de problemas
+[Github](https://github.com/florencia-uruzagasti)
 
-Si tienes alguna duda o problema que no se puede resolver en el proyecto te animamos a que lo consultes con los instructores. El problema que enfrentas puede sucederle a otro compañero.
+[Facebook](https://www.facebook.com/mari.uruzagasti)
 
-## Recursos
+[Twitter](https://www.twitter.com/)
 
-Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.
+[Instagram](https://www.instagram.com/)
+
+
