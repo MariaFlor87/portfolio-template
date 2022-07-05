@@ -220,7 +220,11 @@ footer {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
-  padding-top: 40px;
+  padding-top: 0px;
+  height: 85%;
+  width: 120%;
+  align-self: center;
+  flex-grow: 0.8;
 }
 
 .tech-icon-list {
@@ -228,7 +232,7 @@ footer {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 0px 60px;
+  padding: 0px 30px;
 }
 
 .tech-icon-list-end {
@@ -241,15 +245,15 @@ footer {
 .tech-icon-item {
   display: flex;
   flex-direction: column;
-  margin-right: 80px;
-  margin-bottom: 80px;
+  margin-right: 10px;
+  margin-bottom: 10px;
   align-items: center;
 }
 
 .tech-icon-item-end {
   display: flex;
   flex-direction: column;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   align-items: center;
 }
 
