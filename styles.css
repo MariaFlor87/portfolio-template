@@ -214,3 +214,50 @@ footer {
   font-size: 18px;
 }
 
+/* Sección agregada por el compañero */
+.tech-icons-container {
+  background-color: rgba(255, 255, 255, 0.801);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0px;
+  height: 85%;
+  width: 120%;
+  align-self: center;
+  flex-grow: 0.8;
+}
+
+.tech-icon-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0px 30px;
+}
+
+.tech-icon-list-end {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.tech-icon-item {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.tech-icon-item-end {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  align-items: center;
+}
+
+span {
+  margin-top: 5px;
+  color: var(--primary-color-dark);
+}
